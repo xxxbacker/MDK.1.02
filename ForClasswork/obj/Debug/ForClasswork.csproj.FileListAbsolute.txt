@@ -1,0 +1,11 @@
+C:\Users\ar22s\RiderProjects\ForClasswork\ForClasswork\bin\Debug\ForClasswork.exe.config
+C:\Users\ar22s\RiderProjects\ForClasswork\ForClasswork\bin\Debug\ForClasswork.exe
+C:\Users\ar22s\RiderProjects\ForClasswork\ForClasswork\bin\Debug\ForClasswork.pdb
+C:\Users\ar22s\RiderProjects\ForClasswork\ForClasswork\obj\Debug\ForClasswork.csproj.AssemblyReference.cache
+C:\Users\ar22s\RiderProjects\ForClasswork\ForClasswork\obj\Debug\ForClasswork.csproj.SuggestedBindingRedirects.cache
+C:\Users\ar22s\RiderProjects\ForClasswork\ForClasswork\obj\Debug\ForClasswork.Properties.Resources.resources
+C:\Users\ar22s\RiderProjects\ForClasswork\ForClasswork\obj\Debug\ForClasswork.csproj.GenerateResource.cache
+C:\Users\ar22s\RiderProjects\ForClasswork\ForClasswork\obj\Debug\ForClasswork.csproj.CoreCompileInputs.cache
+C:\Users\ar22s\RiderProjects\ForClasswork\ForClasswork\obj\Debug\ForClasswork.exe
+C:\Users\ar22s\RiderProjects\ForClasswork\ForClasswork\obj\Debug\ForClasswork.pdb
+C:\Users\ar22s\RiderProjects\ForClasswork\ForClasswork\obj\Debug\ForClasswork.Form1.resources
