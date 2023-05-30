@@ -1,0 +1,3 @@
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\Math\Math\obj\Debug\Math.csproj.AssemblyReference.cache
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\Math\Math\obj\Debug\Math.csproj.SuggestedBindingRedirects.cache
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\Math\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
