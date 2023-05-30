@@ -1,0 +1,8 @@
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\lab5_var27_chibisov\lab5_var27_chibisov\bin\Debug\lab5_var27_chibisov.exe.config
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\lab5_var27_chibisov\lab5_var27_chibisov\bin\Debug\lab5_var27_chibisov.exe
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\lab5_var27_chibisov\lab5_var27_chibisov\bin\Debug\lab5_var27_chibisov.pdb
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\lab5_var27_chibisov\lab5_var27_chibisov\obj\Debug\lab5_var27_chibisov.csproj.AssemblyReference.cache
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\lab5_var27_chibisov\lab5_var27_chibisov\obj\Debug\lab5_var27_chibisov.csproj.SuggestedBindingRedirects.cache
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\lab5_var27_chibisov\lab5_var27_chibisov\obj\Debug\lab5_var27_chibisov.csproj.CoreCompileInputs.cache
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\lab5_var27_chibisov\lab5_var27_chibisov\obj\Debug\lab5_var27_chibisov.exe
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\lab5_var27_chibisov\lab5_var27_chibisov\obj\Debug\lab5_var27_chibisov.pdb
