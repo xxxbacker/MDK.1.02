@@ -1,0 +1,22 @@
+C:\Users\zxc_t0xic\source\repos\classWork\classWork\bin\Debug\classWork.exe.config
+C:\Users\zxc_t0xic\source\repos\classWork\classWork\bin\Debug\classWork.exe
+C:\Users\zxc_t0xic\source\repos\classWork\classWork\bin\Debug\classWork.pdb
+C:\Users\zxc_t0xic\source\repos\classWork\classWork\obj\Debug\classWork.csproj.AssemblyReference.cache
+C:\Users\zxc_t0xic\source\repos\classWork\classWork\obj\Debug\classWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\zxc_t0xic\source\repos\classWork\classWork\obj\Debug\classWork.Form1.resources
+C:\Users\zxc_t0xic\source\repos\classWork\classWork\obj\Debug\classWork.Properties.Resources.resources
+C:\Users\zxc_t0xic\source\repos\classWork\classWork\obj\Debug\classWork.csproj.GenerateResource.cache
+C:\Users\zxc_t0xic\source\repos\classWork\classWork\obj\Debug\classWork.csproj.CoreCompileInputs.cache
+C:\Users\zxc_t0xic\source\repos\classWork\classWork\obj\Debug\classWork.exe
+C:\Users\zxc_t0xic\source\repos\classWork\classWork\obj\Debug\classWork.pdb
+C:\Users\ar22s\Downloads\Telegram Desktop\classWork\classWork\bin\Debug\classWork.exe.config
+C:\Users\ar22s\Downloads\Telegram Desktop\classWork\classWork\bin\Debug\classWork.exe
+C:\Users\ar22s\Downloads\Telegram Desktop\classWork\classWork\bin\Debug\classWork.pdb
+C:\Users\ar22s\Downloads\Telegram Desktop\classWork\classWork\obj\Debug\classWork.csproj.AssemblyReference.cache
+C:\Users\ar22s\Downloads\Telegram Desktop\classWork\classWork\obj\Debug\classWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\ar22s\Downloads\Telegram Desktop\classWork\classWork\obj\Debug\classWork.Form1.resources
+C:\Users\ar22s\Downloads\Telegram Desktop\classWork\classWork\obj\Debug\classWork.Properties.Resources.resources
+C:\Users\ar22s\Downloads\Telegram Desktop\classWork\classWork\obj\Debug\classWork.csproj.GenerateResource.cache
+C:\Users\ar22s\Downloads\Telegram Desktop\classWork\classWork\obj\Debug\classWork.csproj.CoreCompileInputs.cache
+C:\Users\ar22s\Downloads\Telegram Desktop\classWork\classWork\obj\Debug\classWork.exe
+C:\Users\ar22s\Downloads\Telegram Desktop\classWork\classWork\obj\Debug\classWork.pdb
