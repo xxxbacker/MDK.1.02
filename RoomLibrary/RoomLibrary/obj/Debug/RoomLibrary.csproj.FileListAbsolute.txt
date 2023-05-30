@@ -1,0 +1,12 @@
+C:\Users\ЬШ\source\repos\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll
+C:\Users\ЬШ\source\repos\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.pdb
+C:\Users\ЬШ\source\repos\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.AssemblyReference.cache
+C:\Users\ЬШ\source\repos\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ЬШ\source\repos\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.dll
+C:\Users\ЬШ\source\repos\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.pdb
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.pdb
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.AssemblyReference.cache
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.dll
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.pdb
