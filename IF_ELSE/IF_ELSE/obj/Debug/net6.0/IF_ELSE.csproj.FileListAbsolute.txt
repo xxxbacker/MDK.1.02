@@ -1,0 +1,15 @@
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\IF_ELSE\IF_ELSE\bin\Debug\net6.0\IF_ELSE.exe
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\IF_ELSE\IF_ELSE\bin\Debug\net6.0\IF_ELSE.deps.json
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\IF_ELSE\IF_ELSE\bin\Debug\net6.0\IF_ELSE.runtimeconfig.json
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\IF_ELSE\IF_ELSE\bin\Debug\net6.0\IF_ELSE.dll
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\IF_ELSE\IF_ELSE\bin\Debug\net6.0\IF_ELSE.pdb
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\IF_ELSE\IF_ELSE\obj\Debug\net6.0\IF_ELSE.csproj.AssemblyReference.cache
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\IF_ELSE\IF_ELSE\obj\Debug\net6.0\IF_ELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\IF_ELSE\IF_ELSE\obj\Debug\net6.0\IF_ELSE.AssemblyInfoInputs.cache
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\IF_ELSE\IF_ELSE\obj\Debug\net6.0\IF_ELSE.AssemblyInfo.cs
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\IF_ELSE\IF_ELSE\obj\Debug\net6.0\IF_ELSE.csproj.CoreCompileInputs.cache
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\IF_ELSE\IF_ELSE\obj\Debug\net6.0\IF_ELSE.dll
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\IF_ELSE\IF_ELSE\obj\Debug\net6.0\refint\IF_ELSE.dll
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\IF_ELSE\IF_ELSE\obj\Debug\net6.0\IF_ELSE.pdb
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\IF_ELSE\IF_ELSE\obj\Debug\net6.0\IF_ELSE.genruntimeconfig.cache
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\IF_ELSE\IF_ELSE\obj\Debug\net6.0\ref\IF_ELSE.dll

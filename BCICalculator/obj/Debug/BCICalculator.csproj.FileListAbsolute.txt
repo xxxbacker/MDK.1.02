@@ -1,0 +1,22 @@
+C:\Users\ЬШ\source\repos\BCICalculator\bin\Debug\BCICalculator.exe.config
+C:\Users\ЬШ\source\repos\BCICalculator\bin\Debug\BCICalculator.exe
+C:\Users\ЬШ\source\repos\BCICalculator\bin\Debug\BCICalculator.pdb
+C:\Users\ЬШ\source\repos\BCICalculator\obj\Debug\BCICalculator.csproj.AssemblyReference.cache
+C:\Users\ЬШ\source\repos\BCICalculator\obj\Debug\BCICalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ЬШ\source\repos\BCICalculator\obj\Debug\BCICalculator.Form1.resources
+C:\Users\ЬШ\source\repos\BCICalculator\obj\Debug\BCICalculator.Properties.Resources.resources
+C:\Users\ЬШ\source\repos\BCICalculator\obj\Debug\BCICalculator.csproj.GenerateResource.cache
+C:\Users\ЬШ\source\repos\BCICalculator\obj\Debug\BCICalculator.csproj.CoreCompileInputs.cache
+C:\Users\ЬШ\source\repos\BCICalculator\obj\Debug\BCICalculator.exe
+C:\Users\ЬШ\source\repos\BCICalculator\obj\Debug\BCICalculator.pdb
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\BCICalculator\bin\Debug\BCICalculator.exe.config
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\BCICalculator\bin\Debug\BCICalculator.exe
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\BCICalculator\bin\Debug\BCICalculator.pdb
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\BCICalculator\obj\Debug\BCICalculator.csproj.AssemblyReference.cache
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\BCICalculator\obj\Debug\BCICalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\BCICalculator\obj\Debug\BCICalculator.Form1.resources
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\BCICalculator\obj\Debug\BCICalculator.Properties.Resources.resources
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\BCICalculator\obj\Debug\BCICalculator.csproj.GenerateResource.cache
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\BCICalculator\obj\Debug\BCICalculator.csproj.CoreCompileInputs.cache
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\BCICalculator\obj\Debug\BCICalculator.exe
+C:\Users\ar22s\OneDrive\Рабочий стол\spiz_kuk\BCICalculator\obj\Debug\BCICalculator.pdb
